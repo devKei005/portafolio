@@ -41,7 +41,7 @@ Me interesa aprender sobre desarrollo de software, bases de datos y cómo la tec
 - Eclipse / NetBeans
 - Visual Studio Code
 
-### 🌱 Actualmente
+🌱 Actualmente
 - Aprendiendo nuevas tecnologías y metodologías de desarrollo.
 - Desarrollando proyectos para seguir ganando experiencia.
 - Mejorando mis conocimientos en programación y bases de datos.
