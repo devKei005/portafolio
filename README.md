@@ -36,9 +36,8 @@ Me interesa aprender sobre desarrollo de software, bases de datos y cómo la tec
 ### 🛠️ Herramientas y tecnologías que utilizo
 - Java
 - MySQL
-- Git y GitHub
-- Linux
-- Eclipse / NetBeans
+- PHP
+- Eclipse 
 - Visual Studio Code
 
 🌱 Actualmente
